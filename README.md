@@ -1,2 +1,2 @@
 # Instalador Reloj rF
-Repositorio donde se guardan las nuevas versiones y instalador del Reloj rFlex
+Repositorio donde se guardan las nuevas versiones e instalador del Reloj rFlex
